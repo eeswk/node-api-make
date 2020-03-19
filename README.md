@@ -34,3 +34,15 @@ node t
 포트 3000 (기본)
 
 package.json 참고
+
+TDD
+
+```
+npm test
+
+npm start
+```
+post body값
+```
+npm i body-parser --save
+```
